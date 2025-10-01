@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IntensAXd0946
-- 👀 I’m interested in Python,.html,.jvs,.batch,Seashark etc.
+- 👀 I’m interested in Python,.html,.jvs,.batch etc.
 - 🌱 I’m currently learning Python, Seashark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I'm on Dc as: _intensaxd_
