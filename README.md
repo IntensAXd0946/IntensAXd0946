@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I'm on Dc as: _intensaxd_
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate N....uggies
+- ⚡ Fun fact: 
 
 <!---
 IntensAXd0946/IntensAXd0946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
